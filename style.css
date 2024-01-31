@@ -1,0 +1,21 @@
+h1 {
+    text-align:center;
+    font-size: 25px;
+    font-family: 'Comic Sans Ms','Comic Sans';
+    background: linear-gradient(to right, #f32172e0, #fe6601, #ff00ff, #ffe600);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+body{
+    background: linear-gradient(to right, #33FFF0, #33A8FF, #5833FF, #B833FF);
+}
+
+html{
+    height: 100;
+    width:100;
+}
+
+#button{
+    align-self: center;
+}
